@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "79391160889",
+    "project_id": "spring21-a3cdd",
+    "storage_bucket": "spring21-a3cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79391160889:android:cce7ffa3abb0272690ebe8",
+        "android_client_info": {
+          "package_name": "com.dmejlvang.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79391160889-c9d6va3uo72dhhe0sf07perb0of8pg0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJfQ9A2TRo0cI3EjVFerS2fuyj9sLmTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79391160889-c9d6va3uo72dhhe0sf07perb0of8pg0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79391160889-7cm82ra5e7h9biq073op84r5687463th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dani.kea.Mandatory1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79391160889:android:ff90ae77080ea44190ebe8",
+        "android_client_info": {
+          "package_name": "com.dmejlvang.snapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79391160889-c9d6va3uo72dhhe0sf07perb0of8pg0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJfQ9A2TRo0cI3EjVFerS2fuyj9sLmTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79391160889-c9d6va3uo72dhhe0sf07perb0of8pg0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79391160889-7cm82ra5e7h9biq073op84r5687463th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dani.kea.Mandatory1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
